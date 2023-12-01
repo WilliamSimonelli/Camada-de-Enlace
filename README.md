@@ -7,7 +7,8 @@ Integrantes:
 	
 Instruções para rodar no ubuntu:
 	1 - git clone <repo_url>
-	2 - comando "make" dentro da pasta
-	3 - comando "./main" dentro da pasta
+ 	2 - cd Camada-de-Enlace/
+	3 - comando "make" dentro da pasta
+	4 - comando "./main" dentro da pasta
 	
 	Após realizar esses passos a aplicação rodará no terminal.
