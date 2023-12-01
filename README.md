@@ -12,3 +12,9 @@ Instruções para rodar no ubuntu:
 	4 - comando "./main" dentro da pasta
 	
 	Após realizar esses passos a aplicação rodará no terminal.
+ 
+Versão do Ubuntu:
+	Ubuntu 22.04.3 LTS
+
+ Compilador utilizado:
+	g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
